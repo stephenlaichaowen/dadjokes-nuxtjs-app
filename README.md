@@ -8,15 +8,14 @@ This project access remote api (jokes) to read the joke lists and prepopulate in
 
 ## This is a small, simple but practical project that involves the following tech:
 
-
-- Using axios to 
-- Using asyncData hooks to retrieve remote api [dadjokes api](https://icanhazdadjoke.com) to get data, and prepopulate the static content in server side before page render
+- In asyncData hooks using axios to retrieve remote api [dadjokes api](https://icanhazdadjoke.com) to get data, and prepopulate the static content in server side before page render
 - Page transition is applied: configure nuxt.config.js and register transtion property, add global css code
 
 ## How to build this project
 
 ```bash
-# first download thsi project to your desktop
+# first download this project to your desktop
+
 # install dependencies
 $ npm install
 
@@ -27,7 +26,6 @@ $ npm run dev
 $ npm run generate
 ```
 
-This project is inspired by [Nuxt JS Crash Course](https://www.youtube.com/watch?v=ltzlhAxJr74), the author didn't apply
-ssr to the project and I this functionlity.
+This project is inspired by [Nuxt JS Crash Course / Traversy Media](https://www.youtube.com/watch?v=ltzlhAxJr74), the author didn't apply ssr to the project and I enhance it with ssr functionality.
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
