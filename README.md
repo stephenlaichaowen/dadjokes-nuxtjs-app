@@ -1,6 +1,6 @@
 # Project : DadJokes
 
-## [Demo](https://dadjokes-nuxtjs-app.netlify.app/)
+## Demo website is [here](https://dadjokes-nuxtjs-app.netlify.app/)
 
 This project is built with Nuxtjs, the most powerful and advanced fullstack framework ever that empowers your single page application with server side render functionality and more ...
 
