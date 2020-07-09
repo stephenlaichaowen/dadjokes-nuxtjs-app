@@ -1,0 +1,20 @@
+<template>
+  <div>
+    <h2>Welcome to the best corny dad jokes app on the web</h2>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'home',
+    head: {
+      title: 'Welcome to Dad Jokes',
+      meta: [
+        { hid: 'description', name: 'description', content: 'Best place for corny data jokes' }
+      ]
+    }
+}
+</script>
+
+<style>
+</style>
