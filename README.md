@@ -1,8 +1,10 @@
 # Project : DadJokes
 
-This project is built with Nuxtjs, a fullstack framework that empowers your single page application with 
+## [Demo](https://dadjokes-nuxtjs-app.netlify.app/)
 
-## Build Setup
+This project is built with Nuxtjs, the most powerful and advanced fullstack framework ever that empowers your single page application with server side render functionality and more ...
+
+## How to build this project
 
 ```bash
 # install dependencies
