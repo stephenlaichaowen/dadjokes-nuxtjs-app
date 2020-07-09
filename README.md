@@ -26,6 +26,17 @@ $ npm run dev
 $ npm run generate
 ```
 
+## Things to know when deploying project to Netflify
+
+There is one thing you should pay attetion to when deploying Nuxutjs project in Netlify, in step 3 ~ Build options, and deploy!, you have to fill out `Build command` and `Publish directory` like
+
+```
+Build commnad : npm run generate
+Publsih directory : dist
+```
+
+Then Netlify will build the project for you automatically and deploy !!!
+
 This project is inspired by [Nuxt JS Crash Course / Traversy Media](https://www.youtube.com/watch?v=ltzlhAxJr74), the author didn't apply ssr to the project and I enhance it with ssr functionality.
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
