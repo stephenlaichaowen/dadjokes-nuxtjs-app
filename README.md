@@ -4,7 +4,7 @@
 
 This project is built with Nuxtjs, the most powerful and advanced fullstack framework ever that empowers your single page application with server side render functionality and more ...
 
-This project access remote api (jokes) to read the joke lists and prepopulate in server then render in browser. If you click right in mouse panel and select `inspect page source code` you will see the contents. This is vue-cli can't offer and that makes nuxtjs stands out !!!
+This project access remote api (jokes) to read the joke lists and prepopulate in server then render in browser. If you right click the mouse and select `inspect page source code` you will see the contents. This is vue-cli can't offer and that makes nuxtjs stands out !!!
 
 ## This is a small, simple but practical project that involves the following tech:
 
@@ -37,6 +37,6 @@ Publsih directory : dist
 
 Then Netlify will build the project for you automatically and deploy !!!
 
-This project is inspired by [Nuxt JS Crash Course / Traversy Media](https://www.youtube.com/watch?v=ltzlhAxJr74), the author didn't apply ssr to the project and I enhance it with ssr functionality.
+This project is inspired by [Nuxt JS Crash Course / Traversy Media](https://www.youtube.com/watch?v=ltzlhAxJr74), the author didn't apply ssr to the project and I enhance it with this functionality.
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
