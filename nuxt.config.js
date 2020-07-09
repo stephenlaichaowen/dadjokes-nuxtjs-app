@@ -35,6 +35,10 @@ export default {
   */
   buildModules: [
   ],
+  transition: {
+    name: 'fade',
+    mode: 'out-in'
+  },
   /*
   ** Nuxt.js modules
   */

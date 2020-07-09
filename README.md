@@ -1,6 +1,6 @@
-# dadjokes
+# Project : DadJokes
 
-> My breathtaking Nuxt.js project
+This project is built with Nuxtjs, a fullstack framework that empowers your single page application with 
 
 ## Build Setup
 
